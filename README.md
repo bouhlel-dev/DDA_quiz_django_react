@@ -29,6 +29,14 @@
 
 ### **1. Install Backend Dependencies (Django & DRF)**  
 Ensure you have Python installed, then install the required libraries:  
+            pip install requirements.txt
+BACK
+python manage.py runserver    
+python manage.py makemigrations  
+python manage.py migrate  
+python manage.py showmigrations  
+python manage.py createsuperuser    
+pip freeze > requirements.txt  
 
-```sh
-pip install django djangorestframework django-cors-headers tensorflow openai
+FRONT
+npm run dev
