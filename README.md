@@ -1,4 +1,3 @@
-﻿# DDA_quiz_django_react
 # 🎯 DDA Quiz System – Django & React  
 
 **DDA_quiz_django_react** is an **adaptive quiz system** built using **Django** (backend) and **React** (frontend). It leverages a **Dynamic Difficulty Adjustment (DDA) algorithm** to personalize question difficulty based on user performance, enhancing engagement. The system also integrates **AI-powered hints** and **question reformulation** for a smarter and more interactive quiz experience. 🚀🧠  
